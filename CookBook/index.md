@@ -1,6 +1,6 @@
 # 🍳 Willkommen im Cookbook
 
-Meine erprobten Rezepte – von schnellen Alltagsgerichten bis zu aufwändigen Sous-Vide-Projekten.
+Meine erprobten Rezepte – Für die schnellen Alltagsgerichten.
 
 > [!tip] Tipp
 > Jedes Rezept beginnt mit einer **„Auf einen Blick"**-Box: Portionen, Zeit und Schwierigkeit auf einen Griff.
