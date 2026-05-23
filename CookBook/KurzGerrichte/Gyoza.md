@@ -1,1 +1,0 @@
-Fertig gyoza mit. Soja und scharfer major 

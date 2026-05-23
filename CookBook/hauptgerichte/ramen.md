@@ -1,8 +1,19 @@
+---
+title: Vegetarisches Ramen (Sous-Vide)
+description: Dashi-Brühe, mariniertes Ei und Sous-Vide-Pilze – vegetarisches Ramen über zwei Tage.
+tags:
+  - hauptgericht
+  - vegetarisch
+  - sous-vide
+  - japanisch
+  - ramen
+---
+
 # Vegetarisches Ramen (Sous-Vide)
 
-> [!info] Koch-Level & Timing
-> **Aktive Zeit:** 2 Stunden | **Gesamtzeit:** 3-4 Stunden (+ Vorbereitung am Vortag)
-> 
+> [!info] Auf einen Blick
+> **Portionen:** 6 · **Aktive Zeit:** 2 Std · **Gesamtzeit:** 3–4 Std (+ Vortag) · **Schwierigkeit:** anspruchsvoll
+>
 > Perfekt für Freitag-Dinner: Vorbereitung Donnerstagabend, Finalisierung Freitag ab 16:00 Uhr.
 
 ---

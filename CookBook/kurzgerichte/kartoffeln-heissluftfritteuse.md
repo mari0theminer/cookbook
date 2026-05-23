@@ -1,7 +1,17 @@
+---
+title: Kartoffeln aus der Heißluftfritteuse
+description: Knusprige, würzige Kartoffelwürfel aus dem Airfryer – schnelles Alltagsgericht.
+tags:
+  - kurzgericht
+  - vegetarisch
+  - heissluftfritteuse
+  - kartoffeln
+---
+
 # Kartoffeln aus der Heißluftfritteuse
 
-> [!info] Koch-Level & Timing
-> **Aktive Zeit:** 10 Minuten | **Gesamtzeit:** 35–45 Minuten
+> [!info] Auf einen Blick
+> **Portionen:** 2–3 · **Aktive Zeit:** 10 Min · **Gesamtzeit:** 35–45 Min · **Schwierigkeit:** einfach
 >
 > Einfaches Alltagsgericht – knusprig, würzig, minimal Aufwand.
 

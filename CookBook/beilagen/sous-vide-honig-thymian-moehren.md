@@ -1,7 +1,17 @@
+---
+title: Sous-Vide Honig-Thymian Möhren
+description: Zarte, leicht karamellisierte Möhren aus dem Wasserbad – klassische Wildbeilage.
+tags:
+  - beilage
+  - vegetarisch
+  - sous-vide
+  - gemuese
+---
+
 # Sous-Vide Honig-Thymian Möhren
 
-> [!info] Koch-Level & Timing
-> **Aktive Zeit:** 5 Minuten | **Gesamtzeit:** 45–55 Minuten
+> [!info] Auf einen Blick
+> **Portionen:** 2–4 · **Aktive Zeit:** 5 Min · **Gesamtzeit:** 45–55 Min · **Schwierigkeit:** einfach
 >
 > Klassische Wildbeilage – zart, leicht karamellisiert, aromatisch.
 

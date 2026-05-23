@@ -1,7 +1,20 @@
-# Japanisches Curry mit Sous Vide Hähnchen
+---
+title: Japanisches Curry mit Sous-Vide-Hähnchen
+description: Klassisches Golden-Curry mit zartem Sous-Vide-Hähnchen – Comfort Food mit wenig Aufwand.
+tags:
+  - hauptgericht
+  - sous-vide
+  - japanisch
+  - curry
+  - comfort-food
+---
 
-> [!info] Überblick
-> Klassisches japanisches Curry mit Golden Curry Blöcken und perfekt gegartem Sous Vide Hähnchen. Comfort Food mit minimalem Aufwand.
+# Japanisches Curry mit Sous-Vide-Hähnchen
+
+> [!info] Auf einen Blick
+> **Portionen:** 3–4 · **Aktive Zeit:** 30 Min · **Gesamtzeit:** 1,5–2 Std · **Schwierigkeit:** mittel
+>
+> Klassisches japanisches Curry mit Golden-Curry-Blöcken und perfekt gegartem Sous-Vide-Hähnchen.
 
 ## Zutaten
 
@@ -71,7 +84,3 @@ Während Sous Vide läuft:
 ### 🍛 Katsu Curry
 - Hähnchen nach Sous Vide panieren & frittieren
 - Auf Curry legen statt darin
-
----
-
-**Tags:** #curry #japanisch #sousvide #comfort-food #golden-curry

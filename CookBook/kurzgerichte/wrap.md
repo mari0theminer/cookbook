@@ -1,7 +1,16 @@
+---
+title: Wrap
+description: Flexible Wraps mit Joghurt-Sauce, frischem Gemüse und optionalem BBQ-Hack.
+tags:
+  - kurzgericht
+  - schnell
+  - wrap
+---
+
 # Wrap
 
-> [!info] Koch-Level & Timing
-> **Aktive Zeit:** 10–15 Minuten | **Gesamtzeit:** 15–20 Minuten
+> [!info] Auf einen Blick
+> **Portionen:** 1–2 · **Aktive Zeit:** 10–15 Min · **Gesamtzeit:** 15–20 Min · **Schwierigkeit:** einfach
 >
 > Schnelles Alltagsgericht – flexibel, frisch, sättigend.
 
@@ -9,7 +18,7 @@
 
 ## Zutaten (1–2 Portionen)
 
-### Füllung[[[]()]()]()
+### Füllung
 
 | Zutat | Menge | Hinweis |
 |-------|-------|---------|

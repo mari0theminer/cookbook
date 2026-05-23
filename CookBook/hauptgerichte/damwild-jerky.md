@@ -1,4 +1,17 @@
+---
+title: Damwild-Jerky (Hack)
+description: Würziges Wild-Jerky aus Hack mit Pökelsalz und Liquid Smoke – im Dörrgerät getrocknet.
+tags:
+  - snack
+  - fleisch
+  - wild
+  - doerren
+---
+
 # Damwild-Jerky (Hack)
+
+> [!info] Auf einen Blick
+> **Ergibt:** ~400–500 g aus 1 kg Hack · **Aktive Zeit:** 30 Min · **Gesamtzeit:** 5–7 Std · **Schwierigkeit:** mittel
 
 > [!warning] Lebensmittelsicherheit
 > **USDA-Empfehlung:** Fleisch muss vor dem Trocknen auf **71°C Kerntemperatur** erhitzt werden – ODER mit Pökelsalz arbeiten!
