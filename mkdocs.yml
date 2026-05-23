@@ -1,6 +1,6 @@
 site_name: 🍳 Niklas' Cookbook
 site_description: Rezepte & Küchen-Notizen
-site_url: https://DEIN-GITHUB-USERNAME.github.io/cookbook
+site_url: https://cook.mari0.dev
 
 docs_dir: CookBook
 site_dir: site
@@ -32,9 +32,13 @@ theme:
 plugins:
   - search:
       lang: de
+  - callouts
+  - tags
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -46,15 +50,16 @@ markdown_extensions:
 nav:
   - Start: index.md
   - Hauptgerichte:
-    - Ramen: Ramen.md
-    - Japanisches Curry Sous-Vide: Japanisches-Curry-Sous-Vide.md
-    - Damwild Jerky: Damwild-Jerky.md
+    - Ramen: hauptgerichte/ramen.md
+    - Japanisches Curry Sous-Vide: hauptgerichte/japanisches-curry-sous-vide.md
+    - Damwild Jerky: hauptgerichte/damwild-jerky.md
   - Schnelle Gerichte:
-    - Wrap: KurzGerrichte/Wrap.md
-    - Kartoffeln Heißluftfritteuse: KurzGerrichte/Kartoffeln-Heissluftfritteuse.md
-    - Gyoza: KurzGerrichte/Gyoza.md
-    - Quick Curry: KurzGerrichte/Quick curry.md
-    - Gnocchi Express: KurzGerrichte/gnoci express.md
-    - Maultaschen: KurzGerrichte/maultaschen.md
+    - Kartoffeln Heißluftfritteuse: kurzgerichte/kartoffeln-heissluftfritteuse.md
+    - Wrap: kurzgerichte/wrap.md
+    - Quick Curry: kurzgerichte/quick-curry.md
+    - Gnocchi Express: kurzgerichte/gnocchi-express.md
+    - Gyoza: kurzgerichte/gyoza.md
+    - Maultaschen: kurzgerichte/maultaschen.md
   - Beilagen:
-    - Sous-Vide Honig-Thymian Möhren: Beilagen/Sous-Vide-Honig-Thymian-Moehren.md
+    - Sous-Vide Honig-Thymian Möhren: beilagen/sous-vide-honig-thymian-moehren.md
+  - Tags: tags.md

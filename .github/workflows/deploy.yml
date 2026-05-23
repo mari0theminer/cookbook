@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
 
       - name: Dependencies installieren
-        run: pip install mkdocs-material
+        run: pip install mkdocs-material mkdocs-callouts
 
       - name: Website bauen & deployen
         run: mkdocs gh-deploy --force
